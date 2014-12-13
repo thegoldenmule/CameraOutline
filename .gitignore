@@ -1,0 +1,4 @@
+*.sdf
+*.tlog
+*.TMP
+vc2013/Debug/
